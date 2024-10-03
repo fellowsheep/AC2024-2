@@ -4,7 +4,7 @@ Professora: Rossana B Queiroz
 
 Este é o repositório de exemplos para as atividades da Atividade Acadêmica Animação Computadorizada do curso de graduação em Jogos Digitais da Unisinos.
 
-Para a entrega dos exercícios, recomenda-se a criação de um repositório no Github (ou similar) e seguir a seguinte estrutura:
+Para a entrega dos exercícios, recomenda-se a criação de um repositório no Github (ou similar) e seguir a seguinte estrutura (Exemplo considerando a disciplina Fundamentos de Programação):
 
 <img src= "assets/Repo01.png" alt="Sugestão de estrutura" width = 250>
 
